@@ -1,8 +1,8 @@
 @charset 'UTF-8';
 @font-face {
   font-family: 'MiiverseSymbols';
-  src: url('/img/font/MiiverseSymbols-Regular.eot?g4khEYcfqJ5alM6eFiV-LA');
-  src: url('/img/font/MiiverseSymbols-Regular.eot?g4khEYcfqJ5alM6eFiV-LA#iefix') format('embedded-opentype'), url('/img/font/MiiverseSymbols-Regular.woff?RkxShjFofefIEsBVAiKv6Q') format('woff'), url('/img/font/MiiverseSymbols-Regular.ttf?W8NeiSCock3J-MCV6h9wVA') format('truetype');
+  src: url('/img/font/MiiverseSymbols-Regular.eot');
+  src: url('/img/font/MiiverseSymbols-Regular.eot') format('embedded-opentype'), url('/img/font/MiiverseSymbols-Regular.woff') format('woff'), url('/img/font/MiiverseSymbols-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
